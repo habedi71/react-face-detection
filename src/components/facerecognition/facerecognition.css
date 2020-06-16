@@ -1,0 +1,20 @@
+/* .imgSize {
+	width: 80%;
+} */
+
+img {
+	width: 100%;
+}
+
+.faceBox {
+	position: absolute;
+	border: 2px solid lightblue;
+	border-radius: 20%;
+	cursor: pointer;
+	color: white;
+}
+
+.faceBox:hover {
+	background: rgba(0, 0, 0, 0.5);
+	border: 2px solid red;
+}

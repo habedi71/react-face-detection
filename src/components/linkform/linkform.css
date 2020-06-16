@@ -1,0 +1,8 @@
+.cssbg {
+	background: rgb(130, 180, 180);
+	opacity: 0.8;
+}
+
+button, input {
+	opacity: 1.0;
+}
